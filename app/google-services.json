@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "981406706140",
+    "project_id": "runner-food-cced4",
+    "storage_bucket": "runner-food-cced4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:981406706140:android:8d6135499005ee11018719",
+        "android_client_info": {
+          "package_name": "com.internshala.foodrunner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "981406706140-6803ccp53idej7qe5f9rljpd0sqm0vhu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.internshala.foodrunner",
+            "certificate_hash": "15be4a926e02f945cd192b88998fc03c6cb1689f"
+          }
+        },
+        {
+          "client_id": "981406706140-boi4tbpnr31knmcmqi4vd7l6j85l4l5i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDBSqYcthc3ylSLpx563PT1mVr1AGE6xw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "981406706140-boi4tbpnr31knmcmqi4vd7l6j85l4l5i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
