@@ -1,13 +1,21 @@
 # Runner Food App
 A Food Delivery Android App with various restaurants, multiple menus. Users can mark their favorite restaurants and also track their order history.
 
-# Features
-- Browse Restaurants: Search and browse through a variety of restaurants.
-- View Menus: Check out detailed menus and item descriptions.
-- Place Orders: Select items and place orders seamlessly.
-- Track Orders: Real-time order tracking from preparation to delivery.
-- User Profiles: Manage user profiles and order histories.
-- Payment Integration: Secure payment options through popular gateways.
+# Key Features
+- Restaurant Browsing & Search
+- Detailed Menu Exploration
+- Favorite Restaurants Management
+- Food Ordering Workflow
+- Order History Tracking
+- User Profile Management
+- Responsive Android UI
+
+# Tech Stack
+- Kotlin
+- Android SDK
+- RecyclerView
+- ConstraintLayout
+- Material Design Components
 
 # Screenshots
 <img src="https://github.com/user-attachments/assets/d6a39716-d583-4ede-9fb0-81be542c5961"  width="200" height="400">
@@ -23,6 +31,6 @@ A Food Delivery Android App with various restaurants, multiple menus. Users can 
 <img src="https://github.com/user-attachments/assets/4688345c-6523-45ce-934c-d63a19e83a2d" width="200" height="400">
 
 # Playstore
-* Available on Playstore - https://play.google.com/store/apps/details?id=com.internshala.foodrunner
+* Available on Playstore
 
 ![Screenshot 2024-06-13 163211](https://github.com/user-attachments/assets/d4428bf1-0de2-48de-bf59-85e927165289)
